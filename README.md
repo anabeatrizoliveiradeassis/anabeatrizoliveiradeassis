@@ -10,6 +10,8 @@
 
 <img src="https://skillicons.dev/icons?i=html,css" />
 
+<img src="https://skillicons.dev/icons?i=mysql" />
+
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 🚀 Sobre mim
