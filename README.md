@@ -6,7 +6,7 @@
 
 🛠️ Tecnologias
 
-HTML e CSS
+<img src="https://skillicons.dev/icons?i=python,c,js" />
 
 JavaScript
 
