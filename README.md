@@ -8,13 +8,11 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,js" />
 
-JavaScript
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-C
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-MySQL
-
-Python
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 🚀 Sobre mim
 
