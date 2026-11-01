@@ -1,7 +1,7 @@
 ## Olá! Eu sou Ana Beatriz 👋
 
-🎓 Estudante de Engenharia de Software
-💻 Interessada em programação e desenvolvimento Web
+🎓 Estudante de Engenharia de Software  
+💻 Interessada em programação e desenvolvimento Web  
 📚 Aprendendo, praticando e desenvolvendo novos projetos
 
 🛠️ Tecnologias
