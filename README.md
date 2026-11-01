@@ -6,13 +6,10 @@
 
 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,c,js" />
+<img src="https://skillicons.dev/icons?i=python,c,js" /> <img src="https://skillicons.dev/icons?i=html,css" />
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=git,github" />
 
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://skillicons.dev/icons?i=git,github" />
 
 🚀 Sobre mim
 
